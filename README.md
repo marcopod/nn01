@@ -1,2 +1,2 @@
 # nn01
-Simple MNIST ANN using only math
+Simple MNIST MLP using only math
